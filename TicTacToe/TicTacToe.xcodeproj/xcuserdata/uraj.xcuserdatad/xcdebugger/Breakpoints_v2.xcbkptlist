@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C85FBF92-B687-4BB6-934E-25654B07A6FD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7641289-BFB3-4856-BBF2-684419778E1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe/Actors/TicTacToeGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "makeMove()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7641289-BFB3-4856-BBF2-684419778E1F - 5b167e401ded2039"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.TicTacToeGame.makeMove() -&gt; ()"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/TicTacToeGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "2120">
+               </Location>
+               <Location
+                  uuid = "C7641289-BFB3-4856-BBF2-684419778E1F - 5b167e401ded21c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.TicTacToeGame.makeMove() -&gt; ()"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/TicTacToeGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+               <Location
+                  uuid = "C7641289-BFB3-4856-BBF2-684419778E1F - 5b167e401ded2018"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.TicTacToeGame.makeMove() -&gt; ()"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/TicTacToeGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+               <Location
+                  uuid = "C7641289-BFB3-4856-BBF2-684419778E1F - 5b167e401ded205a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.TicTacToeGame.makeMove() -&gt; ()"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/TicTacToeGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "788">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A0C2B9A-79DF-4DDB-AD11-6B96A90F3656"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe/Actors/N_WinningStrategy.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "checkRowWin(matrix:currentRow:col:symbol:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7A0C2B9A-79DF-4DDB-AD11-6B96A90F3656 - e064a3adfad2b562"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkRowWin(currentRow: Swift.Int, col: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "7A0C2B9A-79DF-4DDB-AD11-6B96A90F3656 - 6c7e859f14009c87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkRowWin(matrix: Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;, currentRow: Swift.Int, col: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "629E0BE1-2D29-4780-B20C-CB38B778B683"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe/Actors/N_WinningStrategy.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "checkColWin(matrix:currentCol:row:symbol:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "629E0BE1-2D29-4780-B20C-CB38B778B683 - 9bf0188536acd7bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkColWin(currentCol: Swift.Int, row: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "629E0BE1-2D29-4780-B20C-CB38B778B683 - b39230e24875a3b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkColWin(matrix: Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;, currentCol: Swift.Int, row: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58B41787-A7E1-4730-B2BD-AECAE297B5A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe/Actors/N_WinningStrategy.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "checkDiagonolWin(matrix:diagonol:symbol:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58B41787-A7E1-4730-B2BD-AECAE297B5A2 - 268471e58c49ebab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkDiagonolWin(diagonol: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "58B41787-A7E1-4730-B2BD-AECAE297B5A2 - dc68c2276cb68fc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkDiagonolWin(matrix: Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;, diagonol: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1533C9B-246C-481E-ACC6-3498C2A38514"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe/Actors/N_WinningStrategy.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "checkDiagonolWin(matrix:diagonol:symbol:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1533C9B-246C-481E-ACC6-3498C2A38514 - 268471e58c49ea0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkDiagonolWin(diagonol: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "864">
+               </Location>
+               <Location
+                  uuid = "A1533C9B-246C-481E-ACC6-3498C2A38514 - dc68c2276cb68e65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkDiagonolWin(matrix: Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;, diagonol: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40801B58-910A-4CD1-AF39-8668C081A7D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe/Actors/TicTacToeGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "makeMove()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "40801B58-910A-4CD1-AF39-8668C081A7D8 - 5b167e401ded2710"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.TicTacToeGame.makeMove() -&gt; ()"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/TicTacToeGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "2424">
+               </Location>
+               <Location
+                  uuid = "40801B58-910A-4CD1-AF39-8668C081A7D8 - 5b167e401ded2710"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.TicTacToeGame.makeMove() -&gt; ()"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/TicTacToeGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "2492">
+               </Location>
+               <Location
+                  uuid = "40801B58-910A-4CD1-AF39-8668C081A7D8 - 5b167e401ded2752"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.TicTacToeGame.makeMove() -&gt; ()"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/TicTacToeGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "1996">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33217C3B-1153-46A2-8021-48934683DD9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe/Actors/N_WinningStrategy.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "checkDiagonolWin(matrix:diagonol:symbol:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33217C3B-1153-46A2-8021-48934683DD9C - 268471e58c49eaa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkDiagonolWin(diagonol: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+               <Location
+                  uuid = "33217C3B-1153-46A2-8021-48934683DD9C - dc68c2276cb68ec8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkDiagonolWin(matrix: Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;, diagonol: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Actors/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68263885-2361-4DB5-8760-EA3404610519"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe/Strategy/N_WinningStrategy.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "checkDiagonolWin(matrix:symbol:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68263885-2361-4DB5-8760-EA3404610519 - 7f1936f2986d49e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkDiagonolWin(matrix: Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;, diagonol: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Strategy/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "68263885-2361-4DB5-8760-EA3404610519 - 52afc92904fc6684"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkDiagonolWin(matrix: Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Strategy/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "796">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A407942-4FB3-4A41-93FA-9614CF80CFA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe/Strategy/N_WinningStrategy.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "checkDiagonolWin(matrix:symbol:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A407942-4FB3-4A41-93FA-9614CF80CFA0 - 7f1936f2986d480e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkDiagonolWin(matrix: Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;, diagonol: Swift.Int, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Strategy/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "3A407942-4FB3-4A41-93FA-9614CF80CFA0 - 52afc92904fc6763"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.N_WinningStrategy.checkDiagonolWin(matrix: Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;, symbol: TicTacToe.GameSymbol) -&gt; Swift.Bool"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/TicTacToe/TicTacToe/Strategy/N_WinningStrategy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
