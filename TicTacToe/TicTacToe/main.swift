@@ -13,4 +13,8 @@ let matrixSize = 3
 let game = TicTacToeGame(matrixSize: matrixSize, winningMode: .N_Linear)
 game.registerPlayer(name: "Player_1", symbol: .X)
 
+
+/// Uncomment below for 2 player game
+//game.registerPlayer(name: "Player_2", symbol: .O)
+
 game.startGame()
