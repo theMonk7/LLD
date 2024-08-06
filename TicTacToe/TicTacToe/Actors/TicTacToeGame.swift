@@ -78,6 +78,7 @@ class TicTacToeGame {
                 if let currPlayer = players.popFirst() {
                     players.append(currPlayer)
                 }
+                
             } catch let err {
                 print(err.localizedDescription)
             }

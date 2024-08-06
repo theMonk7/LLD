@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2CA42768-7194-44B1-BB2A-194C055DB98A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6ECC98D1-6070-438F-B2A1-6701B7B329C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SnakeAndLadder/Actor/SnakeAndLadderGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "makeMove()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6ECC98D1-6070-438F-B2A1-6701B7B329C7 - b1176b1fee360032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnakeAndLadder.SnakeAndLadderGame.makeMove() -&gt; ()"
+                  moduleName = "SnakeAndLadder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/SnakeAndLadder/SnakeAndLadder/Actor/SnakeAndLadderGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "6ECC98D1-6070-438F-B2A1-6701B7B329C7 - b1176b1fee360032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnakeAndLadder.SnakeAndLadderGame.makeMove() -&gt; ()"
+                  moduleName = "SnakeAndLadder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/SnakeAndLadder/SnakeAndLadder/Actor/SnakeAndLadderGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+               <Location
+                  uuid = "6ECC98D1-6070-438F-B2A1-6701B7B329C7 - b1176b1fee360032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnakeAndLadder.SnakeAndLadderGame.makeMove() -&gt; ()"
+                  moduleName = "SnakeAndLadder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/SnakeAndLadder/SnakeAndLadder/Actor/SnakeAndLadderGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1540">
+               </Location>
+               <Location
+                  uuid = "6ECC98D1-6070-438F-B2A1-6701B7B329C7 - b1176b1fee360032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnakeAndLadder.SnakeAndLadderGame.makeMove() -&gt; ()"
+                  moduleName = "SnakeAndLadder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/SnakeAndLadder/SnakeAndLadder/Actor/SnakeAndLadderGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1700">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

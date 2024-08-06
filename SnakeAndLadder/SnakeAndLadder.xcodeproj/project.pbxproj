@@ -1,0 +1,509 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B2E483132C61A7E00016EF9F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E483122C61A7E00016EF9F /* main.swift */; };
+		B2E4831C2C61B0C70016EF9F /* SnakeAndLadderGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E4831B2C61B0C70016EF9F /* SnakeAndLadderGame.swift */; };
+		B2E4831E2C61B0E90016EF9F /* Board.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E4831D2C61B0E90016EF9F /* Board.swift */; };
+		B2E483202C61B0FA0016EF9F /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E4831F2C61B0FA0016EF9F /* User.swift */; };
+		B2E483222C61B10B0016EF9F /* Jumper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E483212C61B10B0016EF9F /* Jumper.swift */; };
+		B2E483242C61B1360016EF9F /* Dice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E483232C61B1360016EF9F /* Dice.swift */; };
+		B2E483262C61B1460016EF9F /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E483252C61B1460016EF9F /* Player.swift */; };
+		B2E483292C61B1B00016EF9F /* BitCollections in Frameworks */ = {isa = PBXBuildFile; productRef = B2E483282C61B1B00016EF9F /* BitCollections */; };
+		B2E4832B2C61B1B00016EF9F /* Collections in Frameworks */ = {isa = PBXBuildFile; productRef = B2E4832A2C61B1B00016EF9F /* Collections */; };
+		B2E4832D2C61B1B00016EF9F /* DequeModule in Frameworks */ = {isa = PBXBuildFile; productRef = B2E4832C2C61B1B00016EF9F /* DequeModule */; };
+		B2E4832F2C61B1B00016EF9F /* HashTreeCollections in Frameworks */ = {isa = PBXBuildFile; productRef = B2E4832E2C61B1B00016EF9F /* HashTreeCollections */; };
+		B2E483312C61B1B00016EF9F /* HeapModule in Frameworks */ = {isa = PBXBuildFile; productRef = B2E483302C61B1B00016EF9F /* HeapModule */; };
+		B2E483332C61B2280016EF9F /* Ladder.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E483322C61B2280016EF9F /* Ladder.swift */; };
+		B2E483372C61BA000016EF9F /* Snake.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E483362C61BA000016EF9F /* Snake.swift */; };
+		B2E4833A2C61CF160016EF9F /* GameState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E483392C61CF160016EF9F /* GameState.swift */; };
+		B2E4833D2C61CF9D0016EF9F /* GameError.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E4833C2C61CF9D0016EF9F /* GameError.swift */; };
+		B2E4833F2C61D4110016EF9F /* WinningStrategy.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E4833E2C61D4110016EF9F /* WinningStrategy.swift */; };
+		B2E483412C61D4430016EF9F /* ClassicWinningStrategy.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E483402C61D4430016EF9F /* ClassicWinningStrategy.swift */; };
+		B2E483432C61DB2A0016EF9F /* WinningMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E483422C61DB2A0016EF9F /* WinningMode.swift */; };
+		B2E4834C2C61F0D30016EF9F /* BoardStrategy.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E4834B2C61F0D30016EF9F /* BoardStrategy.swift */; };
+		B2E4834E2C61F0E10016EF9F /* BoardMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E4834D2C61F0E10016EF9F /* BoardMode.swift */; };
+		B2E483512C61F8E00016EF9F /* ClassicStartStrategy.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E483502C61F8E00016EF9F /* ClassicStartStrategy.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		B2E4830D2C61A7E00016EF9F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		B2E4830F2C61A7E00016EF9F /* SnakeAndLadder */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SnakeAndLadder; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2E483122C61A7E00016EF9F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B2E4831B2C61B0C70016EF9F /* SnakeAndLadderGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnakeAndLadderGame.swift; sourceTree = "<group>"; };
+		B2E4831D2C61B0E90016EF9F /* Board.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Board.swift; sourceTree = "<group>"; };
+		B2E4831F2C61B0FA0016EF9F /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		B2E483212C61B10B0016EF9F /* Jumper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jumper.swift; sourceTree = "<group>"; };
+		B2E483232C61B1360016EF9F /* Dice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice.swift; sourceTree = "<group>"; };
+		B2E483252C61B1460016EF9F /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		B2E483322C61B2280016EF9F /* Ladder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ladder.swift; sourceTree = "<group>"; };
+		B2E483362C61BA000016EF9F /* Snake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snake.swift; sourceTree = "<group>"; };
+		B2E483392C61CF160016EF9F /* GameState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameState.swift; sourceTree = "<group>"; };
+		B2E4833C2C61CF9D0016EF9F /* GameError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameError.swift; sourceTree = "<group>"; };
+		B2E4833E2C61D4110016EF9F /* WinningStrategy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinningStrategy.swift; sourceTree = "<group>"; };
+		B2E483402C61D4430016EF9F /* ClassicWinningStrategy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassicWinningStrategy.swift; sourceTree = "<group>"; };
+		B2E483422C61DB2A0016EF9F /* WinningMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinningMode.swift; sourceTree = "<group>"; };
+		B2E4834B2C61F0D30016EF9F /* BoardStrategy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoardStrategy.swift; sourceTree = "<group>"; };
+		B2E4834D2C61F0E10016EF9F /* BoardMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoardMode.swift; sourceTree = "<group>"; };
+		B2E483502C61F8E00016EF9F /* ClassicStartStrategy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassicStartStrategy.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B2E4830C2C61A7E00016EF9F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B2E4832B2C61B1B00016EF9F /* Collections in Frameworks */,
+				B2E483312C61B1B00016EF9F /* HeapModule in Frameworks */,
+				B2E483292C61B1B00016EF9F /* BitCollections in Frameworks */,
+				B2E4832F2C61B1B00016EF9F /* HashTreeCollections in Frameworks */,
+				B2E4832D2C61B1B00016EF9F /* DequeModule in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B2E483062C61A7E00016EF9F = {
+			isa = PBXGroup;
+			children = (
+				B2E483112C61A7E00016EF9F /* SnakeAndLadder */,
+				B2E483102C61A7E00016EF9F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B2E483102C61A7E00016EF9F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B2E4830F2C61A7E00016EF9F /* SnakeAndLadder */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B2E483112C61A7E00016EF9F /* SnakeAndLadder */ = {
+			isa = PBXGroup;
+			children = (
+				B2E483382C61CF060016EF9F /* enum */,
+				B2E483192C61B0AC0016EF9F /* Actor */,
+				B2E483122C61A7E00016EF9F /* main.swift */,
+			);
+			path = SnakeAndLadder;
+			sourceTree = "<group>";
+		};
+		B2E483192C61B0AC0016EF9F /* Actor */ = {
+			isa = PBXGroup;
+			children = (
+				B2E4831A2C61B0B00016EF9F /* Strategy */,
+				B2E483462C61EF9D0016EF9F /* Player */,
+				B2E483442C61EA690016EF9F /* Jumpers */,
+				B2E4831B2C61B0C70016EF9F /* SnakeAndLadderGame.swift */,
+				B2E4831D2C61B0E90016EF9F /* Board.swift */,
+				B2E483232C61B1360016EF9F /* Dice.swift */,
+			);
+			path = Actor;
+			sourceTree = "<group>";
+		};
+		B2E4831A2C61B0B00016EF9F /* Strategy */ = {
+			isa = PBXGroup;
+			children = (
+				B2E4834A2C61F0930016EF9F /* BoardStrategy */,
+				B2E483492C61F0890016EF9F /* GameStrategy */,
+			);
+			path = Strategy;
+			sourceTree = "<group>";
+		};
+		B2E483382C61CF060016EF9F /* enum */ = {
+			isa = PBXGroup;
+			children = (
+				B2E483392C61CF160016EF9F /* GameState.swift */,
+				B2E4833C2C61CF9D0016EF9F /* GameError.swift */,
+				B2E483422C61DB2A0016EF9F /* WinningMode.swift */,
+				B2E4834D2C61F0E10016EF9F /* BoardMode.swift */,
+			);
+			path = enum;
+			sourceTree = "<group>";
+		};
+		B2E4833B2C61CF940016EF9F /* WinningStrategy */ = {
+			isa = PBXGroup;
+			children = (
+				B2E483402C61D4430016EF9F /* ClassicWinningStrategy.swift */,
+			);
+			path = WinningStrategy;
+			sourceTree = "<group>";
+		};
+		B2E483442C61EA690016EF9F /* Jumpers */ = {
+			isa = PBXGroup;
+			children = (
+				B2E483452C61EF900016EF9F /* Interface */,
+				B2E483362C61BA000016EF9F /* Snake.swift */,
+				B2E483322C61B2280016EF9F /* Ladder.swift */,
+			);
+			path = Jumpers;
+			sourceTree = "<group>";
+		};
+		B2E483452C61EF900016EF9F /* Interface */ = {
+			isa = PBXGroup;
+			children = (
+				B2E483212C61B10B0016EF9F /* Jumper.swift */,
+			);
+			path = Interface;
+			sourceTree = "<group>";
+		};
+		B2E483462C61EF9D0016EF9F /* Player */ = {
+			isa = PBXGroup;
+			children = (
+				B2E483472C61EFA30016EF9F /* Interface */,
+				B2E483252C61B1460016EF9F /* Player.swift */,
+			);
+			path = Player;
+			sourceTree = "<group>";
+		};
+		B2E483472C61EFA30016EF9F /* Interface */ = {
+			isa = PBXGroup;
+			children = (
+				B2E4831F2C61B0FA0016EF9F /* User.swift */,
+			);
+			path = Interface;
+			sourceTree = "<group>";
+		};
+		B2E483482C61EFB60016EF9F /* Interface */ = {
+			isa = PBXGroup;
+			children = (
+				B2E4833E2C61D4110016EF9F /* WinningStrategy.swift */,
+			);
+			path = Interface;
+			sourceTree = "<group>";
+		};
+		B2E483492C61F0890016EF9F /* GameStrategy */ = {
+			isa = PBXGroup;
+			children = (
+				B2E483482C61EFB60016EF9F /* Interface */,
+				B2E4833B2C61CF940016EF9F /* WinningStrategy */,
+			);
+			path = GameStrategy;
+			sourceTree = "<group>";
+		};
+		B2E4834A2C61F0930016EF9F /* BoardStrategy */ = {
+			isa = PBXGroup;
+			children = (
+				B2E483502C61F8E00016EF9F /* ClassicStartStrategy.swift */,
+				B2E4834F2C61F8BA0016EF9F /* Interface */,
+			);
+			path = BoardStrategy;
+			sourceTree = "<group>";
+		};
+		B2E4834F2C61F8BA0016EF9F /* Interface */ = {
+			isa = PBXGroup;
+			children = (
+				B2E4834B2C61F0D30016EF9F /* BoardStrategy.swift */,
+			);
+			path = Interface;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B2E4830E2C61A7E00016EF9F /* SnakeAndLadder */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B2E483162C61A7E00016EF9F /* Build configuration list for PBXNativeTarget "SnakeAndLadder" */;
+			buildPhases = (
+				B2E4830B2C61A7E00016EF9F /* Sources */,
+				B2E4830C2C61A7E00016EF9F /* Frameworks */,
+				B2E4830D2C61A7E00016EF9F /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SnakeAndLadder;
+			packageProductDependencies = (
+				B2E483282C61B1B00016EF9F /* BitCollections */,
+				B2E4832A2C61B1B00016EF9F /* Collections */,
+				B2E4832C2C61B1B00016EF9F /* DequeModule */,
+				B2E4832E2C61B1B00016EF9F /* HashTreeCollections */,
+				B2E483302C61B1B00016EF9F /* HeapModule */,
+			);
+			productName = SnakeAndLadder;
+			productReference = B2E4830F2C61A7E00016EF9F /* SnakeAndLadder */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B2E483072C61A7E00016EF9F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					B2E4830E2C61A7E00016EF9F = {
+						CreatedOnToolsVersion = 15.0.1;
+					};
+				};
+			};
+			buildConfigurationList = B2E4830A2C61A7E00016EF9F /* Build configuration list for PBXProject "SnakeAndLadder" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B2E483062C61A7E00016EF9F;
+			packageReferences = (
+				B2E483272C61B1B00016EF9F /* XCRemoteSwiftPackageReference "swift-collections" */,
+			);
+			productRefGroup = B2E483102C61A7E00016EF9F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B2E4830E2C61A7E00016EF9F /* SnakeAndLadder */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B2E4830B2C61A7E00016EF9F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B2E483412C61D4430016EF9F /* ClassicWinningStrategy.swift in Sources */,
+				B2E4831C2C61B0C70016EF9F /* SnakeAndLadderGame.swift in Sources */,
+				B2E483132C61A7E00016EF9F /* main.swift in Sources */,
+				B2E483372C61BA000016EF9F /* Snake.swift in Sources */,
+				B2E483222C61B10B0016EF9F /* Jumper.swift in Sources */,
+				B2E483202C61B0FA0016EF9F /* User.swift in Sources */,
+				B2E4834C2C61F0D30016EF9F /* BoardStrategy.swift in Sources */,
+				B2E4834E2C61F0E10016EF9F /* BoardMode.swift in Sources */,
+				B2E4833D2C61CF9D0016EF9F /* GameError.swift in Sources */,
+				B2E483332C61B2280016EF9F /* Ladder.swift in Sources */,
+				B2E483262C61B1460016EF9F /* Player.swift in Sources */,
+				B2E483432C61DB2A0016EF9F /* WinningMode.swift in Sources */,
+				B2E4833A2C61CF160016EF9F /* GameState.swift in Sources */,
+				B2E4833F2C61D4110016EF9F /* WinningStrategy.swift in Sources */,
+				B2E483242C61B1360016EF9F /* Dice.swift in Sources */,
+				B2E4831E2C61B0E90016EF9F /* Board.swift in Sources */,
+				B2E483512C61F8E00016EF9F /* ClassicStartStrategy.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		B2E483142C61A7E00016EF9F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B2E483152C61A7E00016EF9F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		B2E483172C61A7E00016EF9F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		B2E483182C61A7E00016EF9F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B2E4830A2C61A7E00016EF9F /* Build configuration list for PBXProject "SnakeAndLadder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B2E483142C61A7E00016EF9F /* Debug */,
+				B2E483152C61A7E00016EF9F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B2E483162C61A7E00016EF9F /* Build configuration list for PBXNativeTarget "SnakeAndLadder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B2E483172C61A7E00016EF9F /* Debug */,
+				B2E483182C61A7E00016EF9F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B2E483272C61B1B00016EF9F /* XCRemoteSwiftPackageReference "swift-collections" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apple/swift-collections.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.1.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		B2E483282C61B1B00016EF9F /* BitCollections */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B2E483272C61B1B00016EF9F /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = BitCollections;
+		};
+		B2E4832A2C61B1B00016EF9F /* Collections */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B2E483272C61B1B00016EF9F /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = Collections;
+		};
+		B2E4832C2C61B1B00016EF9F /* DequeModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B2E483272C61B1B00016EF9F /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = DequeModule;
+		};
+		B2E4832E2C61B1B00016EF9F /* HashTreeCollections */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B2E483272C61B1B00016EF9F /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = HashTreeCollections;
+		};
+		B2E483302C61B1B00016EF9F /* HeapModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B2E483272C61B1B00016EF9F /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = HeapModule;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = B2E483072C61A7E00016EF9F /* Project object */;
+}
