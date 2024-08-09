@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "630DFD09-7F07-4FFA-8752-928C0C6FC3CF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "738643E0-D9D8-41C5-BAA5-8A859AFE31E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingLot/Components/ParkingLot.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "exitParking(ticket:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE1DA0C8-7665-4237-9977-0E903F33C860"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingLot/Components/ParkingLot.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "exitParking(ticket:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43B89663-2F7C-4852-89A2-85562ACDDA48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingLot/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "43B89663-2F7C-4852-89A2-85562ACDDA48 - d5825fbbed279864"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "956">
+               </Location>
+               <Location
+                  uuid = "43B89663-2F7C-4852-89A2-85562ACDDA48 - d5825fbbed279864"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "43B89663-2F7C-4852-89A2-85562ACDDA48 - d5825fbbed279887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8006C300-9076-40AD-9053-17940E93E30F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingLot/Components/ParkingFloor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "unparkVehicle(ticket:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8006C300-9076-40AD-9053-17940E93E30F - 9da5ad6730daca3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingFloor.unparkVehicle(ticket: ParkingLot.Ticket) -&gt; ()"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingFloor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "8006C300-9076-40AD-9053-17940E93E30F - 9da5ad6730dacafd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingFloor.unparkVehicle(ticket: ParkingLot.Ticket) -&gt; ()"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingFloor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6E9B4BD-F4E8-4525-ADF4-345B86ADA85F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingLot/Components/ParkingSpot.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "undock()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6464F042-EFFF-4DAC-A8CA-B54D6C413A4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingLot/Components/ParkingLot.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "calculateBill(startTime:parkingType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6464F042-EFFF-4DAC-A8CA-B54D6C413A4A - 6fbafdc547ac1c0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingLot.calculateBill(startTime: Foundation.Date, parkingType: ParkingLot.ParkingType) -&gt; Swift.Double"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingLot.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "6464F042-EFFF-4DAC-A8CA-B54D6C413A4A - 6fbafdc547ac1c0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingLot.calculateBill(startTime: Foundation.Date, parkingType: ParkingLot.ParkingType) -&gt; Swift.Double"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingLot.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "6464F042-EFFF-4DAC-A8CA-B54D6C413A4A - 6fbafdc547ac1c0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingLot.calculateBill(startTime: Foundation.Date, parkingType: ParkingLot.ParkingType) -&gt; Swift.Double"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingLot.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "6464F042-EFFF-4DAC-A8CA-B54D6C413A4A - 6fbafdc547ac1c0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingLot.calculateBill(startTime: Foundation.Date, parkingType: ParkingLot.ParkingType) -&gt; Swift.Double"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingLot.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "6464F042-EFFF-4DAC-A8CA-B54D6C413A4A - 6fbafdc547ac1cf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingLot.calculateBill(startTime: Foundation.Date, parkingType: ParkingLot.ParkingType) -&gt; Swift.Double"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingLot.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "6464F042-EFFF-4DAC-A8CA-B54D6C413A4A - 6fbafdc547ac1cf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingLot.calculateBill(startTime: Foundation.Date, parkingType: ParkingLot.ParkingType) -&gt; Swift.Double"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingLot.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8E62EB6-E27A-4307-81EE-F5A785EDD14F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingLot/Components/ParkingLot.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "calculateBill(startTime:parkingType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8E62EB6-E27A-4307-81EE-F5A785EDD14F - 6fbafdc547ac1c91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingLot.calculateBill(startTime: Foundation.Date, parkingType: ParkingLot.ParkingType) -&gt; Swift.Double"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingLot.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "E8E62EB6-E27A-4307-81EE-F5A785EDD14F - 6fbafdc547ac1c91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingLot.calculateBill(startTime: Foundation.Date, parkingType: ParkingLot.ParkingType) -&gt; Swift.Double"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingLot.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "E8E62EB6-E27A-4307-81EE-F5A785EDD14F - 6fbafdc547ac1c91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingLot.ParkingLot.calculateBill(startTime: Foundation.Date, parkingType: ParkingLot.ParkingType) -&gt; Swift.Double"
+                  moduleName = "ParkingLot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/SS/LLD/ParkingLot/ParkingLot/Components/ParkingLot.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
