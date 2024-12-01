@@ -7,7 +7,7 @@
 
 import Foundation
 
-class LudoPlayer: User, Player {
+class LudoPlayer: Player {
     var name: String
     private var position: Int = 0
     var id: UUID = UUID()
@@ -19,12 +19,6 @@ class LudoPlayer: User, Player {
     
     func getName() -> String {
         return name
-    }
-    
-    func roll(_ dice: DiceStrategy) -> Int {
-        let val = dice.roll()
-        print("Player: \(name) rolled a \(val)")
-        return val
     }
     
     func getPosition() -> Int {

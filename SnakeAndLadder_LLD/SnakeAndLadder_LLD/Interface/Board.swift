@@ -8,6 +8,6 @@
 import Foundation
 
 protocol Board {
-    var players: [Player] { get set }
-    func start()
+    var jumpersMap: [Int: Int] { get set }
+    func getNextPosition(from newPosition: Int) -> Int
 }

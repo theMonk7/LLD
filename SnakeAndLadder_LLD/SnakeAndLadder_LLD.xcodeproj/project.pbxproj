@@ -18,6 +18,8 @@
 		B20551492CFC76380001FA03 /* LudoPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20551482CFC76380001FA03 /* LudoPlayer.swift */; };
 		B205514B2CFC767C0001FA03 /* DiceStrategy.swift in Sources */ = {isa = PBXBuildFile; fileRef = B205514A2CFC767C0001FA03 /* DiceStrategy.swift */; };
 		B205514D2CFC76A90001FA03 /* NormalDice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B205514C2CFC76A90001FA03 /* NormalDice.swift */; };
+		B205514F2CFC911E0001FA03 /* LudoGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = B205514E2CFC911E0001FA03 /* LudoGame.swift */; };
+		B20551512CFC91380001FA03 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20551502CFC91380001FA03 /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +47,8 @@
 		B20551482CFC76380001FA03 /* LudoPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LudoPlayer.swift; sourceTree = "<group>"; };
 		B205514A2CFC767C0001FA03 /* DiceStrategy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceStrategy.swift; sourceTree = "<group>"; };
 		B205514C2CFC76A90001FA03 /* NormalDice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NormalDice.swift; sourceTree = "<group>"; };
+		B205514E2CFC911E0001FA03 /* LudoGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LudoGame.swift; sourceTree = "<group>"; };
+		B20551502CFC91380001FA03 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,7 @@
 		B205512F2CFC73C80001FA03 /* SnakeAndLadder_LLD */ = {
 			isa = PBXGroup;
 			children = (
+				B20551522CFC99460001FA03 /* Strategy */,
 				B20551392CFC74270001FA03 /* Interface */,
 				B205513A2CFC74350001FA03 /* Model */,
 				B20551302CFC73C80001FA03 /* main.swift */,
@@ -91,7 +96,7 @@
 				B205513D2CFC752A0001FA03 /* Jumper.swift */,
 				B20551442CFC75E20001FA03 /* User.swift */,
 				B20551462CFC76160001FA03 /* Player.swift */,
-				B205514A2CFC767C0001FA03 /* DiceStrategy.swift */,
+				B20551502CFC91380001FA03 /* Game.swift */,
 			);
 			path = Interface;
 			sourceTree = "<group>";
@@ -99,6 +104,7 @@
 		B205513A2CFC74350001FA03 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				B205514E2CFC911E0001FA03 /* LudoGame.swift */,
 				B205513B2CFC74490001FA03 /* LudoBoard.swift */,
 				B20551482CFC76380001FA03 /* LudoPlayer.swift */,
 				B205514C2CFC76A90001FA03 /* NormalDice.swift */,
@@ -114,6 +120,14 @@
 				B205513F2CFC757A0001FA03 /* Snake.swift */,
 			);
 			path = Jumpers;
+			sourceTree = "<group>";
+		};
+		B20551522CFC99460001FA03 /* Strategy */ = {
+			isa = PBXGroup;
+			children = (
+				B205514A2CFC767C0001FA03 /* DiceStrategy.swift */,
+			);
+			path = Strategy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -177,10 +191,12 @@
 				B20551382CFC73EA0001FA03 /* Board.swift in Sources */,
 				B20551492CFC76380001FA03 /* LudoPlayer.swift in Sources */,
 				B205514B2CFC767C0001FA03 /* DiceStrategy.swift in Sources */,
+				B20551512CFC91380001FA03 /* Game.swift in Sources */,
 				B205514D2CFC76A90001FA03 /* NormalDice.swift in Sources */,
 				B20551422CFC75970001FA03 /* Ladder.swift in Sources */,
 				B205513C2CFC74490001FA03 /* LudoBoard.swift in Sources */,
 				B20551402CFC757A0001FA03 /* Snake.swift in Sources */,
+				B205514F2CFC911E0001FA03 /* LudoGame.swift in Sources */,
 				B20551472CFC76160001FA03 /* Player.swift in Sources */,
 				B205513E2CFC752A0001FA03 /* Jumper.swift in Sources */,
 				B20551312CFC73C80001FA03 /* main.swift in Sources */,

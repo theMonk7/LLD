@@ -8,7 +8,6 @@
 import Foundation
 
 protocol Player: User {
-    func roll(_ dice: DiceStrategy) -> Int
     func getPosition() -> Int
     func setPosition(_ to: Int)
 }
