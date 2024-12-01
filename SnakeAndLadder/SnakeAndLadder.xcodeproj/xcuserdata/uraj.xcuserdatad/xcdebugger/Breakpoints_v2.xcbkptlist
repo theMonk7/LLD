@@ -79,6 +79,21 @@
                   endingLineNumber = "49"
                   offsetFromSymbolStart = "1700">
                </Location>
+               <Location
+                  uuid = "6ECC98D1-6070-438F-B2A1-6701B7B329C7 - 8aeace41c93cc602"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnakeAndLadder.SnakeAndLadderGame.makeMove() -&gt; ()"
+                  moduleName = "SnakeAndLadder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uraj/Documents/LLD/SnakeAndLadder/SnakeAndLadder/Actor/SnakeAndLadderGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1700">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
